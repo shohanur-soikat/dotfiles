@@ -1,3 +1,5 @@
 [user]
 	name = Shohanur Soikat
 	email = shohanoursam@gmail.com
+[credential]
+	helper = manager
